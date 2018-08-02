@@ -12,5 +12,5 @@ $git commit -m "wrote a readme file"
 $git status
 查看不同
 $git diff(difference)
-
+版本回退
 
