@@ -49,3 +49,5 @@ $ git remote add origin git@github.com:september3/repository.git
 $ git push -u origin master（第一次）
 $ git push  origin master
 
+克隆远端仓库至本地仓库
+$ git clone git@github.com:michaelliao/gitskills.git
