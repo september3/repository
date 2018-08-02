@@ -8,6 +8,9 @@ $git init
 提交
 $git add readme.txt
 $git commit -m "wrote a readme file"
-
+查看状态
+$git status
+查看不同
+$git diff(difference)
 
 
