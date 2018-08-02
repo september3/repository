@@ -34,4 +34,18 @@ $ git checkout -- readme.txt
 
 版本库中删除文件
 $git rm readm.txt
+恢复
+$git checkout --readme.txt
+
+
+创建远程仓库
+创建SSH Key
+$ ssh-keygen -t rsa -C "youremail@example.com"
+删除远程仓库
+$ git remote rm origin
+添加远程仓库
+$ git remote add origin git@github.com:september3/repository.git
+推送至远程仓库
+$ git push -u origin master（第一次）
+$ git push  origin master
 
